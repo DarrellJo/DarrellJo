@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DarrellJo/configure-ad)
   - [Network File Shares and Permissions](https://github.com/DarrellJo/Network-File-Shares)
-  - [Inspecting Network Protocols](url)
+  - [Inspecting Network Protocols](https://github.com/DarrellJo/azure-network-protocol)
 
 <h2>🤳🏽Connect with me:</h2>
 
