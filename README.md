@@ -19,7 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: [https://linkedin.com/in/___________](https://www.linkedin.com/in/darrelljo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSrnjDEiwR3mXd5hajZTJJA%3D%3D)
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
